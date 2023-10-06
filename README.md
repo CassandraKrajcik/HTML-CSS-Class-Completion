@@ -1,4 +1,4 @@
-# IntelliSense for CSS class names in HTML
+##IntelliSense for CSS class names in HTML
 
 A Visual Studio Code extension that provides CSS class name completion for the HTML `class` attribute based on the definitions found in your workspace or external files referenced through the `link` element.
 
@@ -41,7 +41,7 @@ The language modes listed in the previous section are already defined as default
 * Emmet abbreviations support triggered by typing a "." (comes disabled by default, check the User Settings topic for more information).
 
 ## Contributions
-You can request new features and contribute to the extension development on its [repository on GitHub](https://github.com/Zignd/HTML-CSS-Class-Completion/issues). Look for an issue you're interested in working on, comment on it to let me know you're working on it and submit your pull request! :D
+You can request new features and contribute to the extension development on its [repository on GitHub](https://github.com/Zignd/HTML-CSS-Class-Completion/issues). Look for an issue you're interested in working on, comment on it to let me know you're working on it and submit your pull request* :D
 
 ## What's new in version 1.20 (Dec 19, 2020)
 * Settings to allow users to specify which language modes will have autocompletion;
@@ -72,3 +72,4 @@ Currently it supports the following languages (those are [language identifier](h
 
 ![](https://i.imgur.com/O7NjEUW.gif)
 ![](https://i.imgur.com/uyiXqMb.gif)
+ 
