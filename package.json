@@ -19,7 +19,7 @@
     "Other"
   ],
   "activationEvents": [
-    "*"
+    " "
   ],
   "contributes": {
     "commands": [
@@ -137,3 +137,4 @@
     "verror": "^1.10.0"
   }
 }
+ 
